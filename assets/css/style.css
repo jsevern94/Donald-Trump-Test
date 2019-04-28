@@ -1,0 +1,72 @@
+div.answer-option:hover {
+    border: 2px solid black;
+    background-color: grey;
+    font-size: 32px;
+}
+
+h1 {
+    width: 40%;
+    margin: auto;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+#answers {
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+#question {
+    width: 65%;
+    margin: auto;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#time {
+    width: 40%;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+#start-button {
+    text-align: center;
+}
+
+#reset {
+    text-align: center;
+}
+
+main {
+    margin: auto;
+    margin-top: 50px;
+    background-color:moccasin;
+    height: 600px;
+    width: 1000px;
+}
+
+body {
+    background-image: url("../images/american-sticker.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+html {
+    height: 100%;
+}
+
+img {
+    height: 350px;
+}
+
+.answer-option {
+    margin: 5px;
+    text-align: center;
+    font-size: 30px;
+}
