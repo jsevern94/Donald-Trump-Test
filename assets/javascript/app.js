@@ -24,7 +24,7 @@ $(document).ready(function () {
         { answer: "George Washington"},
         { answer: "Mexico"},
         { answer: "me, Donald Trump"},
-        { answer: " that global warming is a myth made up by China, obviously"}
+        { answer: "global warming is a myth made up by China, obviously"}
     ]
     //correct and incorrect answer variables
     var correctAnswers = 0;
